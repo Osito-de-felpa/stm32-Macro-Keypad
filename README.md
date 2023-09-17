@@ -2,7 +2,7 @@
   <h3>Progress?</h3>  
    <ul>
      -Using the library keypad.h got to get the matrix already done for me as i have a 4x4 keypad too.<br><br>
-     -using a bunch of code from  http://www.retrobuiltgames.com/the-build-page/macro-keyboard-v2-0/ ,with deleated functionality to make it easier to understand  <br> just left the cases fro different macros programmed.<br><br>
+     -using a bunch of code from  http://www.retrobuiltgames.com/the-build-page/macro-keyboard-v2-0/ ,with deleated functionality to make it easier to understand 9just left the cases fro different macros programmed.<br><br>
      -planning to modify the code to run on the stm32 as the pins and frequensys are different, but when i make progress at it i'll share it.<br>
     </ul> 
     <h3>Sorry for the mistkes</h3>
